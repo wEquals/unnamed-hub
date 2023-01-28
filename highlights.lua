@@ -1,4 +1,4 @@
-getgenv().Enabled = true
+getgenv().Enabled = false
 getgenv().DepthMode = Enum.HighlightDepthMode.AlwaysOnTop -- Enum.HighlightDepthMode.Occluded to make it visible only
 getgenv().FillColor = Color3.fromRGB(10, 10, 10)
 getgenv().OutlineColor = Color3.fromRGB(85, 105, 230)
